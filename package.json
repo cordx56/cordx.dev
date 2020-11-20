@@ -1,0 +1,14 @@
+{
+  "name": "cordx.dev",
+  "version": "1.0.0",
+  "description": "cordx56's webpage",
+  "repository": "git@github.com:cordx56/cordx.dev",
+  "author": "Kaoru Chisen <cordx56@cordx.net>",
+  "private": true,
+  "scripts": {
+    "serve": "serve public"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
